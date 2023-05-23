@@ -54,11 +54,10 @@ Here are the possible steps involved in conducting such analyses:
 <img alt="Screen Shot 2023-05-23 at 2 33 22 pm" src="https://github.com/nandan75/my_research/assets/12062345/6234873e-5018-4e42-8672-041fa7549723" style="width:80%; height:80%;">
   
 a | **Selecting study populations**: Data can be collected from study cohorts etc.  
-b | **Genotyping**: Genotypic data can be collected using microarrays to capture common variants, or NGS methods for WGS or whole-exome sequencing WES. 
-Data processing. 
+b | **Genotyping**: Genotypic data can be collected using microarrays to capture common variants, or NGS methods for WGS or whole-exome sequencing WES.   
+**Data processing**. 
 c | **Quality control** includes steps at the wet-laboratory stage, such as genotype calling and DNA switches, and dry-laboratory stages on called genotypes, such as deletion of bad SNPs and individuals, detection of population strata in the sample and calculation of principal components. Figure depicts clustering of individuals according to genetic substrata.   
 d | **Genotypic data can be phased, and untyped genotypes imputed **  
-       
        using information from matched reference populations from repositories such as 1000 Genomes Project or TopMed.   
 
 e | **Testing for associations**: Genetic association tests are run for each genetic variant, using an appropriate model (for example, additive, non-additive, linear or logistic regression). Output is inspected for unusual patterns and summary statistics are generated.   

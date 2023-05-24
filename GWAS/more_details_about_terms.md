@@ -1,4 +1,4 @@
-## "Adjust for potential confounders such as population structure, age, and sex" 
+## Potential-confounders 
   This can refer to the need to account for certain variables or factors that may influence the association between genetic variants and disease subtypes during genome-wide association analyses (GWAS). Here's what the sentence could mean in this context:
 
 **Population structure**: Genetic variation can differ between populations due to factors such as ancestry, geographical location, or ethnicity. These differences can introduce bias in association analyses. Adjusting for population structure involves accounting for population-specific genetic variations, which can be done using statistical methods like principal component analysis (PCA) or including appropriate covariates in the analysis.

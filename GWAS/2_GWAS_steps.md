@@ -23,7 +23,7 @@ Here are the possible steps involved in conducting such analyses:
 
 **Association analysis**: Conduct association tests between genetic variants and disease subtypes.   
 - This involves comparing the genotypes or allele frequencies of each variant between different subtypes using appropriate statistical methods. 
-- Adjust for potential confounders such as population structure, age, and sex.
+- [Adjust for potential confounders](./more_details_about_terms.md#Potential-confounders) such as population structure, age, and sex.
 - PLINK, SNPTEST, EPACTS, GEMMA, BOLT-LMM.
 
 **Multiple testing correction**: Account for the multiple comparisons conducted in the GWAS by applying statistical corrections (e.g., Bonferroni correction, false discovery rate) to control for false-positive findings.

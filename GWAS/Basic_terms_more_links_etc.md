@@ -1,3 +1,5 @@
+A presentation with more [details](All_about_GWAS_PRS.pdf)
+
 ## Potential-confounders 
   This can refer to the need to account for certain variables or factors that may influence the association between genetic variants and disease subtypes during genome-wide association analyses (GWAS). Here's what the sentence could mean in this context:
 
